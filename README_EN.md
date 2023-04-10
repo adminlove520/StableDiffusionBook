@@ -1,4 +1,4 @@
-![cover](https://raw.githubusercontent.com/sudoskys/StableDiffusionBook/main/cover_main.png)
+![cover](https://raw.githubusercontent.com/adminlove520/StableDiffusionBook/main/cover_main.png)
 
 ------------------------------------
 
@@ -20,7 +20,7 @@ Wiki about drawing with Ai, related resources. Currently the main content is Sta
 
 **Current status: maintenance welcome, I have no Issue not updated**  
 
-Wiki Here https://draw.dianas.cyou/ ～！
+Wiki Here https://stable-diffusion-book-sooty.vercel.app/ ～！
 
 ```
 The repository currently contains a machine-translated version of the guide.
@@ -32,7 +32,7 @@ If this does not seem to flow well to you or has errors,or u would like a versio
 
 * Vercel
 
-https://stable-diffusion-book.vercel.app/  short link https://b23.ink/aibook
+https://stable-diffusion-book-sooty.vercel.app/
 
 ### Basic requirements
 
@@ -46,7 +46,7 @@ A small reference.
 
 If you find any errors or deficiencies in this article, please feel free to raise an issue and PR to the [Project Repository](https://github.com/adminlove520/StableDiffusionBook/).
 
-Read the [Contribution Guidelines](https://draw.dianas.cyou/en/GettingStarted/contributing/) before contributing
+Read the [Contribution Guidelines](https://stable-diffusion-book-sooty.vercel.app/en/GettingStarted/contributing/) before contributing
 
 Press `. ` key to automatically clone the repository and start collaborating.
 

@@ -34,7 +34,7 @@ Stable Diffusion 本来是面向三次元的，而 NAI 是二次元特化版本�
 
 ## 导航
 
-[工作台速查传送门](https://draw.dianas.cyou/paint/)
+[工作台速查传送门](https://stable-diffusion-book-sooty.vercel.app/paint/)
 
 **起步于此**
 
@@ -69,10 +69,10 @@ Stable Diffusion 本来是面向三次元的，而 NAI 是二次元特化版本�
 ## 访问可用性
 
 * 主地址
-  [https://draw.dianas.cyou/](https://draw.dianas.cyou/)
+  [https://stable-diffusion-book-sooty.vercel.app/](https://stable-diffusion-book-sooty.vercel.app/)
 
 * Vercel （中国大陆不可用）
-  [https://stable-diffusion-book.vercel.app/](https://stable-diffusion-book.vercel.app/) 短链为 (https://b23.ink/aibook)
+  [https://stable-diffusion-book-sooty.vercel.app/](https://stable-diffusion-book-sooty.vercel.app/) 短链为 (https://b23.ink/aibook)
 
 如果不能访问图片或外链资源，请尝试切换网络环境。如果源站地址返回状态码 404/300/302/502 ，可以提交 issue 通知我们移除此内容。
 

@@ -1,4 +1,4 @@
-![cover](https://raw.githubusercontent.com/sudoskys/StableDiffusionBook/main/resource/site_cover.jpg)
+![cover](https://raw.githubusercontent.com/adminlove520/StableDiffusionBook/main/resource/site_cover.jpg)
 ------------------------------------
 
 <p align="center">
@@ -18,7 +18,7 @@
 本指南是关于 [Stable Diffusion WebUi](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 的使用及围绕相关技术展开的应用指导型
 Wiki。
 
-文档的地址是 https://draw.dianas.cyou/ 或者 https://stable-diffusion-book.vercel.app/
+文档的地址是 https://stable-diffusion-book-sooty.vercel.app/
 
 本文档正在持续更新中，欢迎您参与贡献本项目！
 
