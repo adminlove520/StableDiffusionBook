@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/sudoskys/StableDiffusionBook.svg" alt="Stars">
-  <a href="https://github.com/sudoskys/StableDiffusionBook/issues"><img src="https://img.shields.io/github/issues/sudoskys/StableDiffusionBook" alt="Issues"></a>
-  <a href="https://github.com/sudoskys/StableDiffusionBook/actions/workflows/ci.yml"><img src="https://github.com/sudoskys/StableDiffusionBook/actions/workflows/ci.yml/badge.svg" alt="Test"></a>
+  <a href="https://github.com/adminlove520/StableDiffusionBook/issues"><img src="https://img.shields.io/github/issues/sudoskys/StableDiffusionBook" alt="Issues"></a>
+  <a href="https://github.com/adminlove520/StableDiffusionBook/actions/workflows/ci.yml"><img src="https://github.com/adminlove520/StableDiffusionBook/actions/workflows/ci.yml/badge.svg" alt="Test"></a>
   <a href="https://discord.gg/vhsArSSA6K"><img src="https://img.shields.io/discord/1033769426216046622?color=blue&label=Discord-Ai%E7%BB%98%E7%94%BB%E4%B8%AD%E6%96%87%E7%BB%84" alt="Discord"></a>
   <a href="https://t.me/StableDiffusion_CN"><img src="https://img.shields.io/badge/Telegram-Group-blue" alt="Telegram"></a>
 </p>
@@ -31,7 +31,7 @@ promote the internationalisation of this document.
 
 ### 加入编辑
 
-我们欢迎任何人参与文档添加/翻译/校正工作。如果你发现了本文的的错误或不足（逻辑错误，语法病句，结构混乱，内容过时，上下冲突，错词怪词），欢迎向[项目仓库](https://github.com/sudoskys/StableDiffusionBook/)
+我们欢迎任何人参与文档添加/翻译/校正工作。如果你发现了本文的的错误或不足（逻辑错误，语法病句，结构混乱，内容过时，上下冲突，错词怪词），欢迎向[项目仓库](https://github.com/adminlove520/StableDiffusionBook/)
 提 issue 和 PR。
 
 贡献之前先读 [贡献指南](https://draw.dianas.cyou/GettingStarted/contributing/)，也可以不读。
@@ -42,7 +42,6 @@ promote the internationalisation of this document.
 
 欢迎参与海外中文绘画社区 <a href="https://t.me/StableDiffusion_CN"><img src="https://img.shields.io/badge/Telegram-Group-blue" alt="Telegram"></a>
 
-副本见 https://github.com/wfjsw/VP-StableDiffusionBook
 
 ### 许可分发
 
